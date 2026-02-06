@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Sam Shelly, The Website"
+title                    : "Sam Shelly"
 title_separator          : "-"
 name                     : &name "Sam Shelly"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Sam Shelly"
   pronouns         : "He / Him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computer Science Major Astronomy Minor at Vassar College. Interested in machine learning, game design, and software development."
   location         : "Weed, CA"
   employer         : "Vassar College"
   uri              : # URL
@@ -33,11 +33,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -57,7 +57,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : samshelly1
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
