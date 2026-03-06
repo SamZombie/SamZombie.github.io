@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-***[Download Resume](https://samzombie.github.io/files/Sam-Shelly-Resume.pdf)***
+***[Download Resume](https://samzombie.github.io/portfolio/Sam-Shelly-Resume.pdf)***
 
 **EDUCATION**  
 **Vassar College | Poughkeepsie, NY						         Expected May 2026**  

@@ -6,8 +6,8 @@ permalink: /publication/2025-10-08-Efficacy-of-NER-Models-on-Fiction-and-Nonfict
 excerpt: 'Final paper co-wrote with Duncan Beauchamp'
 date: 2025-10-08
 venue: 'CMPU 366 Natural Language Processing'
-paperurl: 'http://samzombie.github.io/files/paper2-NLP-2025.pdf'
-slidesurl: 'http://samzombie.github.io/files/slides2-NLP-2025.pdf'
+paperurl: 'http://samzombie.github.io/publications/paper2-NLP-2025.pdf'
+slidesurl: 'http://samzombie.github.io/publications/slides2-NLP-2025.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
