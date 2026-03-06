@@ -6,6 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+***[Download Resume](https://samzombie.github.io/files/Sam-Shelly-Resume.pdf)***
+
 **EDUCATION**  
 **Vassar College | Poughkeepsie, NY						         Expected May 2026**  
 Bachelor of Arts in Computer Science Minor in Astronomy  
