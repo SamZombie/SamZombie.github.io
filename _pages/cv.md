@@ -86,7 +86,7 @@ Evaluated cross-domain performance of transformer-based NER models on literary f
 
 ## Projects
 
-**AI Knowledge Base RAG** · [GitHub](https://github.com/SamZombie/AI-Knowlege-Base-RAG)  
+**AI Knowledge Base RAG** · [GitHub](https://github.com/SamZombie/AI-Knowledge-Base-RAG)  
 *Python, FastAPI, LangChain, Qdrant, Ollama, Mistral 7B, BAAI/bge-large-en-v1.5, PyMuPDF, Docker, Streamlit, pytest, GitHub Actions*
 
 A production-style Retrieval-Augmented Generation (RAG) system for natural language querying over a corpus of government and defense AI policy documents, including NIST AI RMF, OMB M-25-21, DoD AI Strategy, and GSA AI compliance materials. Designed to run entirely locally with no cloud dependencies, suited for privacy-sensitive government and defense use cases.

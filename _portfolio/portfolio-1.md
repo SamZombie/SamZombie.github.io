@@ -10,6 +10,7 @@ The pipeline ingests PDFs using PyMuPDF, splits them into overlapping chunks, em
 
 The project also includes a custom evaluation pipeline that measures retrieval recall and answer quality using an LLM-as-judge scoring approach, achieving 0.95 retrieval recall and 0.92 answer similarity across 10 ground-truth question-answer pairs. Results are visualized in a Streamlit dashboard with per-question inspection of expected vs. generated answers and source comparisons. A GitHub Actions CI/CD pipeline runs linting and unit tests on every commit.
 
-[GitHub](https://github.com/SamZombie/AI-Knowlege-Base-RAG)
+[▶ Watch Demo on Loom](https://www.loom.com/share/d87cc14f56f5441f8dd59907b70b625a)
+[GitHub](https://github.com/SamZombie/AI-Knowledge-Base-RAG)
 
 **Tech Stack:** Python, FastAPI, LangChain, Qdrant, Ollama, Mistral 7B, BAAI/bge-large-en-v1.5, PyMuPDF, Docker, Streamlit, pytest, GitHub Actions
