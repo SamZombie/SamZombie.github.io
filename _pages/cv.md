@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 ***[Download Resume](https://samzombie.github.io/portfolio/Sam-Shelly-Resume.pdf)***
-*(update this link once the new resume PDF is uploaded)*
 
 # Sam Shelly
 
