@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-***[Download Resume](https://samzombie.github.io/portfolio/Sam-Shelly-Resume.pdf)***
-*(update this link once the new resume PDF is uploaded)*
-
 # Sam Shelly
 
 **Computer Science & Astronomy | Vassar College**
@@ -17,7 +14,24 @@ Weed, CA, USA · [samgshelly@gmail.com](mailto:samgshelly@gmail.com) · [linkedi
 
 ---
 
-## Education
+## Resumes
+
+I keep three versions of my resume, tailored to different audiences. Pick the one that fits, or expand the sections below for the full history.
+
+| Version | Best for | |
+|---|---|---|
+| **Full History** | A complete record — every role, project, publication, and activity | [Download PDF](https://samzombie.github.io/portfolio/Sam-Shelly-Resume-Full.pdf) |
+| **Research** | Graduate programs, research assistantships, astrophysics/ML research roles | [Download PDF](https://samzombie.github.io/portfolio/Sam-Shelly-Resume-Research.pdf) |
+| **Software Engineering** | AI/software engineering roles | [Download PDF](https://samzombie.github.io/portfolio/Sam-Shelly-Resume-SWE.pdf) |
+
+---
+
+## Full History
+
+*Click a section to expand it. The content mirrors the Full History PDF above.*
+
+<details markdown="1">
+<summary><strong>Education</strong></summary>
 
 **Vassar College** — Poughkeepsie, NY
 Bachelor of Arts in Computer Science, Minor in Astronomy
@@ -35,9 +49,10 @@ Coursework: Game Development, Ethics of Artificial Intelligence
 
 - Programmed core movement mechanics and UI for *Nightcrawler*, a 2D puzzle game built in Unity/C# with a 4-person team; published on [itch.io](https://samgshelly.itch.io/nightcrawler).
 
----
+</details>
 
-## Experience
+<details markdown="1">
+<summary><strong>Experience</strong></summary>
 
 **AI Development Intern** — Innovative Computing Systems, Los Angeles, CA
 *May 2025 – Jan 2026*
@@ -59,9 +74,10 @@ Coursework: Game Development, Ethics of Artificial Intelligence
 - Selected for a formal, paid CS Dept Coach position (8 hrs/week), retained across 4 consecutive semesters spanning two course iterations under two different instructors.
 - Led 3 weekly sessions on algorithms, data structures, and debugging in Java for up to 50 students per semester (200+ total), adapting pacing and session plans for struggling students.
 
----
+</details>
 
-## Publications
+<details markdown="1">
+<summary><strong>Publications</strong></summary>
 
 ### Conference Papers
 
@@ -87,9 +103,10 @@ Evaluated cross-domain performance of a DistilBERT-based NER model on literary f
 
 [[Paper]](http://samzombie.github.io/publications/paper2-NLP-2025.pdf) · [[Slides]](http://samzombie.github.io/publications/slides2-NLP-2025.pdf) · [[Code]](https://github.com/d-beauchamp/ner-genre-evaluation)
 
----
+</details>
 
-## Projects
+<details markdown="1">
+<summary><strong>Projects</strong></summary>
 
 **AI Knowledge Base RAG** · [GitHub](https://github.com/SamZombie/AI-Knowledge-Base-RAG)
 *Python, FastAPI, LangChain, Qdrant, Ollama, Mistral 7B, BAAI/bge-large-en-v1.5, PyMuPDF, Docker, Streamlit, pytest, GitHub Actions*
@@ -123,9 +140,10 @@ Analyzed student-interaction data (video views, quiz attempts, textbook page vie
 - Derived surface normals and lighting from partial derivatives of the displacement function, working from first principles rather than using Unity's built-in tools.
 - Undertaken as a graphics-programming fundamentals project, inspired by Jasper Flick's Catlike Coding series and Garrett Gunnell's water rendering work.
 
----
+</details>
 
-## Activities
+<details markdown="1">
+<summary><strong>Activities</strong></summary>
 
 **Assistant Market Manager (Volunteer)** — Mount Shasta Farmers Market, Mount Shasta, CA
 *2020 – 2021*
@@ -141,9 +159,10 @@ Analyzed student-interaction data (video views, quiz attempts, textbook page vie
 - Planned and executed the social program for the team's annual fall home invitational, hosting 7–10 visiting colleges for a weekend tournament.
 - Organized 7 consecutive nightly social events during the team's week-long spring tournament trip to Myrtle Beach, SC.
 
----
+</details>
 
-## Skills
+<details markdown="1">
+<summary><strong>Skills</strong></summary>
 
 **Languages:** Python, Java, C, C++, C#, OCaml
 
@@ -154,3 +173,5 @@ Analyzed student-interaction data (video views, quiz attempts, textbook page vie
 **Coursework/Certifications:** Anthropic Academy — AI Fluency: Framework & Foundations; Claude 101
 
 **Human Languages:** Spanish (Intermediate), Danish (Beginner)
+
+</details>
