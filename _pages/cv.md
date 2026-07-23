@@ -39,15 +39,11 @@ Bachelor of Arts in Computer Science, Minor in Astronomy
 
 Relevant Coursework: Data Structures & Algorithms, Analysis of Algorithms, Software Design, Compilers, Theory of Computation, Computer Organization, Natural Language Processing, Numerical Methods, Autonomous Robotics Design
 
-- Diagnosed recurring board failures on an Arduino Uno R4 WiFi-based robot to an undersized battery and mismatched-voltage motors frying the board, as one of two programmers on a 4-person robotics team.
-- Built a written technical case — including a full engineering log — proving the failure was caused by faculty-provided component specs rather than team error; presented it to course faculty in a three-hour post-class meeting, and the analysis was accepted, correcting the grade from a C to an A-.
-
 **Danish Institute for Study Abroad** — Copenhagen, Denmark
 *Jan 2025 – May 2025*
+Junior Spring Semester Abroad
 
-Coursework: Game Development, Ethics of Artificial Intelligence
-
-- Programmed core movement mechanics and UI for *Nightcrawler*, a 2D puzzle game built in Unity/C# with a 4-person team; published on [itch.io](https://samgshelly.itch.io/nightcrawler).
+Relevant Coursework: Game Development, Ethics of Artificial Intelligence
 
 </details>
 
@@ -57,22 +53,24 @@ Coursework: Game Development, Ethics of Artificial Intelligence
 **AI Development Intern** — Innovative Computing Systems, Los Angeles, CA
 *May 2025 – Jan 2026*
 
-- Hired directly by the COO to lead a Microsoft Copilot Studio Knowledge Agent pilot at a ~60-person company; worked full-time (30 hrs/week) as the primary builder on a 4-person team, meeting weekly with the COO to scope use cases, while three engineers contributed part-time (~5 hrs/week) on team dynamics and use-case input.
-- Built Python-based ingestion pipelines to index SharePoint content — including SOPs, the employee handbook, and company org hierarchy — for retrieval, and implemented an API integration connecting the agent to the company's work-ticket system, letting engineers instantly query prior work history on a given client.
-- Rolled the agent out to a daily-use focus group and began scoping it for a second prospective external client as part of early efforts to commercialize the tool.
+- Led a four person team to architect a Microsoft Copilot Studio knowledge agent for a 60-person systems integration firm.
+- Restricted the agent to closed, company-fed data sources to protect client IP and eliminate public internet exposure.
+- Built Python ingestion pipelines and ConnectWise API integrations to power AI-driven enterprise search, reducing information retrieval time by 30%.
+- Launched a 15-user pilot and led technical evaluations for clients, advancing the product towards commercialization.
 
 **Undergraduate Research Assistant** — Vassar College, Poughkeepsie, NY
-*Jun 2024 – Sep 2024* (Undergraduate Research Summer Institute)
+*Jun 2024 – Sep 2024*
 
-- Analyzed three MAIHEM/FLASH magnetohydrodynamic simulations of a Milky Way-type galaxy's circumgalactic medium (two at solar metallicity, one at 0.3 Z☉) to characterize turbulence-driven magnetic field evolution.
-- Built visualizations using yt-project — radial Mach-Alfvén profiles, angular momentum phase plots, and magnetic/kinetic energy density evolution — showing that turbulent feedback drives disk instability and outward propagation of cold, magnetized gas that saturates the CGM's magnetic field, versus steady cubic growth in the no-feedback case.
-- Co-authored and wrote roughly half of the resulting paper, presented at the KNAC Undergraduate Symposium 2024, advised by Edward Buie II.
+- Analyzed MAIHEM/FLASH magnetohydrodynamic simulations of a Milky Way-type galaxy's circumgalactic medium at different metallicities.
+- Built visualizations like radial Mach-Alfvén profiles, angular momentum phase plots, and magnetic/kinetic energy density evolution to investigate turbulence-driven magnetic field evolution.
+- Discovered that turbulent feedback drives disk instability and outward propagation of cold, magnetized gas that saturates the CGM's magnetic field.
+- Co-authored research paper which was presented at the KNAC Undergraduate Symposium 2024.
 
 **Computer Science Dept. Coach** — Vassar College, Poughkeepsie, NY
 *Jan 2024 – May 2026*
 
-- Selected for a formal, paid CS Dept Coach position (8 hrs/week), retained across 4 consecutive semesters spanning two course iterations under two different instructors.
-- Led 3 weekly sessions on algorithms, data structures, and debugging in Java for up to 50 students per semester (200+ total), adapting pacing and session plans for struggling students.
+- Led three sessions per week on algorithms, data structures, and debugging in Java for up to 50 students per semester (200+ total), adapting pacing and session plans for struggling students.
+- Mentored two coaches, and met weekly with the course professor to align on curriculum direction and student learning progress.
 
 </details>
 
@@ -82,12 +80,12 @@ Coursework: Game Development, Ethics of Artificial Intelligence
 ### Conference Papers
 
 **Feedback-Driven Magnetic Field Evolution in MW-type Simulated Circumgalactic Medium**
-Param P. Gogia, Umman Azan, **Sam Shelly** — Advisor: Edward Buie II
+Param P. Gogia, Umman Azan, **Sam Shelly**, Edward Buie II
 *KNAC Undergraduate Symposium Proceedings*, 2024
 
-Investigated turbulence-driven feedback's role in shaping magnetic field evolution in the circumgalactic medium (CGM) of a simulated Milky Way-type galaxy. Using three MAIHEM MHD simulations (two at solar metallicity, one at 0.3 Z☉), found that injected turbulent feedback induces late-stage magnetic field saturation via disk instability and outward propagation of cold, highly magnetized gas clouds, while the no-feedback case exhibits steady cubic growth.
-
-*My contribution: performed the post-simulation analysis (Mach-Alfvén profiles, angular momentum phase plots, magnetic/kinetic energy density evolution), built all data visualizations using yt-project, and wrote ~50% of the manuscript.*
+- Investigated turbulence-driven feedback's role in magnetic field evolution in the CGM of a simulated Milky Way-type galaxy across three MAIHEM MHD simulations (two solar-metallicity, one at 0.3 Z☉).
+- Found that feedback induces late-stage magnetic field saturation via disk instability and outward propagation of cold, magnetized gas, versus steady cubic growth in the no-feedback case.
+- Analyzed post-simulation Mach-Alfvén profiles, angular momentum phase plots, magnetic/kinetic energy density evolution, and built data visualizations.
 
 [[Paper]](http://samzombie.github.io/publications/paper1-URSI-2024.pdf) · [[Slides]](http://samzombie.github.io/publications/slides1-URSI-2024.pdf)
 
@@ -97,9 +95,9 @@ Investigated turbulence-driven feedback's role in shaping magnetic field evoluti
 Duncan Beauchamp, **Sam Shelly**
 *CMPU 366 Natural Language Processing, Vassar College*, 2025
 
-Evaluated cross-domain performance of a DistilBERT-based NER model on literary fiction (LitBank) vs. expository text (OntoNotes), restricted to shared PER/LOC/ORG entity types. A pretrained baseline showed a 0.368 F1 domain gap between genres; fine-tuning on a mixed-domain corpus (3× oversampled LitBank, 50-token chunking, literary-only validation split) cut the gap to 0.128, raising LitBank micro-F1 from 0.26 to 0.72.
-
-*My contribution: built the training data pipeline (dataset loading, chunking, oversampling, train/validation/test splits) and wrote ~50% of the manuscript.*
+- Evaluated cross-domain performance of a DistilBERT-based NER model on literary fiction (LitBank) vs. expository text (OntoNotes), restricted to shared PER/LOC/ORG entity types.
+- Reduced F1 domain gap between genres from 0.368 to 0.128 by fine-tuning on a mixed-domain corpus, raising LitBank micro-F1 from 0.26 to 0.72.
+- Built the training data pipeline, involving dataset loading, chunking, oversampling, and train/validation/test splits.
 
 [[Paper]](http://samzombie.github.io/publications/paper2-NLP-2025.pdf) · [[Slides]](http://samzombie.github.io/publications/slides2-NLP-2025.pdf) · [[Code]](https://github.com/d-beauchamp/ner-genre-evaluation)
 
@@ -111,27 +109,25 @@ Evaluated cross-domain performance of a DistilBERT-based NER model on literary f
 **AI Knowledge Base RAG** · [GitHub](https://github.com/SamZombie/AI-Knowledge-Base-RAG)
 *Python, FastAPI, LangChain, Qdrant, Ollama, Mistral 7B, BAAI/bge-large-en-v1.5, PyMuPDF, Docker, Streamlit, pytest, GitHub Actions*
 
-A production-style RAG system for querying government/defense AI policy documents (NIST AI RMF, OMB M-25-21, DoD AI Strategy, GSA AI compliance materials). Designed around free, locally-hosted, open-weight components (Mistral 7B, Qdrant) instead of paid hosted APIs, to eliminate cloud dependencies and control cost and data exposure — a deliberate fit for privacy-sensitive government/defense use cases.
-
-- Selected PyMuPDF for PDF ingestion based on its performance reputation and ease of integration; chunks with overlap and embeds via BAAI/bge-large-en-v1.5 into Qdrant.
-- Retrieves top-k chunks and generates grounded, cited answers via Mistral 7B (Ollama).
-- Built a custom LLM-as-judge evaluation pipeline achieving 0.95 retrieval recall and 0.92 answer similarity across 10 ground-truth QA pairs, visualized in a Streamlit dashboard.
-- Served via FastAPI REST API, containerized with Docker Compose, with CI/CD via GitHub Actions.
+- Built a closed-loop Retrieval-Augmented Generation (RAG) system using self-hosted, open-weight components with no external API calls to securely query government and defense AI policy documents in air-gapped and other privacy-sensitive environments.
+- Developed a custom LLM-as-judge evaluation pipeline achieving 0.95 retrieval recall and 0.92 answer similarity across a ground-truth QA dataset, with results visualized in a Streamlit dashboard.
+- Built an end-to-end document ingestion and retrieval pipeline using PyMuPDF, semantic chunking, BAAI/bge-large-en-v1.5 embeddings, Qdrant vector search, and Mistral 7B (Ollama) for grounded, cited responses.
+- Deployed the application as a Dockerized FastAPI REST service with automated testing and CI/CD using GitHub Actions.
 
 **DataFest 2024 — Best Overall Analysis**
-*Python, pandas | 4-person team, 48-hour competition*
+*Python, pandas | 48-hour competition*
 
 Analyzed student-interaction data (video views, quiz attempts, textbook page views; n≈1,857 students) from an online statistics textbook to advise an ed-tech client on improving learning outcomes.
 
-- Team built a multiple regression model (R²=0.47) identifying quiz effort and video engagement as positive predictors of student performance, and quantified that textbook-only engagement and frequent answer-changing predicted lower scores.
-- A teammate built a pandas-based directed dependency graph mapping how students navigated between textbook chapters/sections while studying, informing a recommendation to prepend review material to high-traffic "capstone" chapters.
-- Authored the team's final write-up and slide presentation synthesizing both analyses into client-facing recommendations; won Best Overall Analysis over 20 competing teams from 3 schools.
+- Built a multiple regression model (R²=0.47) identifying quiz effort and video engagement as positive predictors of student performance, and quantified that textbook-only engagement and frequent answer-changing predicted lower scores.
+- Built a pandas-based directed dependency graph mapping how students navigated between textbook chapters/sections while studying, informing a recommendation to prepend review material to high-traffic "capstone" chapters.
+- Authored final write-up and slide presentation synthesizing both analyses into client-facing recommendations.
 
 **PPO Driving Algorithm** · [GitHub](https://github.com/SamZombie/Driving-AI)
 *Python, stable_baselines3, matplotlib, gymnasium, numpy, pygame*
 
 - Trained a 2D autonomous driving agent via Proximal Policy Optimization to navigate a gated course, achieving a 100% gate-pass rate with an asymptotic S-curve reward convergence over ~16M timesteps.
-- Demonstrated policy generalization by extrapolating the trained agent to unseen course layouts.
+- Demonstrated policy generalization by extrapolating the trained agent to unseen course layouts, achieving a 75% gate-pass rate on unseen courses.
 
 **Shader Waves** · [GitHub](https://github.com/SamZombie/ShaderWaves)
 *Unity, HLSL*
